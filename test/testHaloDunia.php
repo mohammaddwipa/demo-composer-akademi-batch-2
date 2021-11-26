@@ -2,7 +2,7 @@
 
 require __DIR__.'/../vendor/autoload.php';
 
-use Dwipaicube\HelloWorld;
+use dwipaicube\HelloWorld;
 
 $helloWorld = new HelloWorld();
 
