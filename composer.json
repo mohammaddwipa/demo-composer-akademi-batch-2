@@ -1,0 +1,21 @@
+{
+    "name": "Dwipaicube/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Syaifulicube\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Dwipaicube",
+            "email": "mohammad.dwipa@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
