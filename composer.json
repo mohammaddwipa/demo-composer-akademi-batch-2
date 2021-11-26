@@ -1,11 +1,11 @@
 {
-    "name": "Dwipaicube/demo-composer-akademi-batch-2",
+    "name": "dwipaicube/demo-composer-akademi-batch-2",
     "description": "demo composer",
     "keywords": ["demo composer"],
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Syaifulicube\\": "src/"
+            "dwipaicube\\": "src/"
         }
     },
     "require": {
@@ -13,7 +13,7 @@
     },
     "authors": [
         {
-            "name": "Dwipaicube",
+            "name": "dwipaicube",
             "email": "mohammad.dwipa@mail.sirclo.com"
         }
     ],
