@@ -1,6 +1,6 @@
 <?php
 
-namespace Dwipaicube;
+namespace dwipaicube;
 
 class HelloWorld
 {
